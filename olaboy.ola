@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-int contador = 0;
-scanf("%d", contador);
-return -100;
+printf("Hello gay boy");
+
+return 69;
 }
