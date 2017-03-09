@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
-
-return 0;
+int contador = 0;
+scanf("%d", contador);
+return -100;
 }
